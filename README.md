@@ -78,4 +78,4 @@ async def dog(ctx):
 
 
 handler = logging.FileHandler(filename='discord.log', encoding='utf-8', mode='w')
-bot.run(r'[MTI1MDY5MzI4OTYxOTc1NTAwOA]\.[G9SZxH]\.[fFDnmvD3NfewAeUUi5zgydyCagdet2lawn3vGg]', log_handler=handler)
+bot.run('MTI1MDY5MzI4OTYxOTc1NTAwOA\.G9SZxH\.fFDnmvD3NfewAeUUi5zgydyCagdet2lawn3vGg', log_handler=handler)
