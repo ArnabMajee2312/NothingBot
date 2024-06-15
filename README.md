@@ -1,0 +1,2 @@
+# NothingBot
+Discord Bot
